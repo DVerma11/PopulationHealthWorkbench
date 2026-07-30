@@ -13,6 +13,9 @@ The analyses integrate claims, patient demographics, encounters, and clinical co
 The project emphasizes reusable Python modules, interactive visualizations, and business-oriented interpretation rather than exploratory coding alone.
 
 ---
+## Executive Dashboard
+
+![Executive Dashboard](images/executive_dashboard/executive_dashboard.png)
 
 ## Project Objectives
 
