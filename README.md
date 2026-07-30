@@ -118,25 +118,29 @@ Executive Recommendations
 
 ---
 
-## Example Dashboards
+## Project Notebooks
 
-### Executive Dashboard
+Explore each notebook for detailed analyses, interactive visualizations, and business interpretations.
 
-![Executive Dashboard](images/executive_dashboard/executive_dashboard.png)
-
+| Notebook | Description |
+|----------|-------------|
+| 📊 [01. Data Exploration](notebooks/01_Data_Exploration.ipynb) | Exploratory analysis of the Synthea healthcare dataset, including data quality assessment and summary statistics. |
+| 📈 [02. Executive Dashboard](notebooks/02_Executive_Dashboard.ipynb) | High-level executive dashboard summarizing key population, utilization, and financial metrics. |
+| 💰 [03. Claims Analytics Dashboard](notebooks/03_Claims_Analytics_Dashboard.ipynb) | Claims analysis, financial trends, diagnosis frequencies, CPT utilization, provider activity, and business insights. |
+| 🏥 [04. Population Health Analytics](notebooks/04_Population_Health.ipynb) | Population health analysis including condition prevalence, patient utilization, risk stratification, care management opportunities, and executive recommendations. |
 ---
 
-### Claims Analytics Dashboard
+## Reusable Python Modules
 
-![Claims Analytics](images/claims_analytics/claims_dashboard.png)
+The notebooks are powered by reusable analytics modules located in the `src` directory.
 
----
+| Module | Purpose |
+|--------|---------|
+| 📄 [data_loader.py](src/data_loader.py) | Loads and prepares healthcare datasets. |
+| 📄 [claims_analytics.py](src/claims_analytics.py) | Functions for claims, financial, provider, and utilization analytics. |
+| 📄 [population_health.py](src/population_health.py) | Functions for prevalence analysis, risk stratification, and population health metrics. |
+| 📄 [terminology.py](src/terminology.py) | Helper functions for clinical terminology and healthcare data processing. |
 
-### Population Health Dashboard
-
-![Population Health](images/population_health/population_health_dashboard.png)
-
----
 
 ## Key Skills Demonstrated
 
