@@ -1,0 +1,4 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2
+1950-08-27,,4da67a54-6874-1651-2ad0-4ea849616d79,4da67a54-6874-1651-fad0-2fa714fa6ec1,609328004,Unknown,Allergic disposition (finding),allergy,environment,,,,,,
+1950-08-27,,4da67a54-6874-1651-2ad0-4ea849616d79,4da67a54-6874-1651-fad0-2fa714fa6ec1,84489001,Unknown,Mold (organism),allergy,environment,21626009,Cutaneous hypersensitivity (disorder),MILD,,,
+1950-08-27,,4da67a54-6874-1651-2ad0-4ea849616d79,4da67a54-6874-1651-fad0-2fa714fa6ec1,264287008,Unknown,Animal dander (substance),allergy,environment,247472004,Wheal (finding),MILD,271807003,Eruption of skin (disorder),MILD
