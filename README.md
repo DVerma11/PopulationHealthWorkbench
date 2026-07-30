@@ -24,6 +24,29 @@ The project emphasizes reusable Python modules, interactive visualizations, and 
 - Present findings through executive dashboards and business interpretations
 
 ---
+## Project Notebooks
+
+Explore each notebook for detailed analyses, interactive visualizations, and business interpretations.
+
+| Notebook | Description |
+|----------|-------------|
+| 📊 [01. Data Exploration](notebooks/01_Data_Exploration.ipynb) | Exploratory analysis of the Synthea healthcare dataset, including data quality assessment and summary statistics. |
+| 📈 [02. Executive Dashboard](notebooks/02_Executive_Dashboard.ipynb) | High-level executive dashboard summarizing key population, utilization, and financial metrics. |
+| 💰 [03. Claims Analytics Dashboard](notebooks/03_Claims_Analytics_Dashboard.ipynb) | Claims analysis, financial trends, diagnosis frequencies, CPT utilization, provider activity, and business insights. |
+| 🏥 [04. Population Health Analytics](notebooks/04_Population_Health.ipynb) | Population health analysis including condition prevalence, patient utilization, risk stratification, care management opportunities, and executive recommendations. |
+---
+
+## Reusable Python Modules
+
+The notebooks are powered by reusable analytics modules located in the `src` directory.
+
+| Module | Purpose |
+|--------|---------|
+| 📄 [data_loader.py](src/data_loader.py) | Loads and prepares healthcare datasets. |
+| 📄 [claims_analytics.py](src/claims_analytics.py) | Functions for claims, financial, provider, and utilization analytics. |
+| 📄 [population_health.py](src/population_health.py) | Functions for prevalence analysis, risk stratification, and population health metrics. |
+| 📄 [terminology.py](src/terminology.py) | Helper functions for clinical terminology and healthcare data processing. |
+
 
 ## Repository Structure
 
@@ -117,29 +140,6 @@ Executive Recommendations
 ```
 
 ---
-
-## Project Notebooks
-
-Explore each notebook for detailed analyses, interactive visualizations, and business interpretations.
-
-| Notebook | Description |
-|----------|-------------|
-| 📊 [01. Data Exploration](notebooks/01_Data_Exploration.ipynb) | Exploratory analysis of the Synthea healthcare dataset, including data quality assessment and summary statistics. |
-| 📈 [02. Executive Dashboard](notebooks/02_Executive_Dashboard.ipynb) | High-level executive dashboard summarizing key population, utilization, and financial metrics. |
-| 💰 [03. Claims Analytics Dashboard](notebooks/03_Claims_Analytics_Dashboard.ipynb) | Claims analysis, financial trends, diagnosis frequencies, CPT utilization, provider activity, and business insights. |
-| 🏥 [04. Population Health Analytics](notebooks/04_Population_Health.ipynb) | Population health analysis including condition prevalence, patient utilization, risk stratification, care management opportunities, and executive recommendations. |
----
-
-## Reusable Python Modules
-
-The notebooks are powered by reusable analytics modules located in the `src` directory.
-
-| Module | Purpose |
-|--------|---------|
-| 📄 [data_loader.py](src/data_loader.py) | Loads and prepares healthcare datasets. |
-| 📄 [claims_analytics.py](src/claims_analytics.py) | Functions for claims, financial, provider, and utilization analytics. |
-| 📄 [population_health.py](src/population_health.py) | Functions for prevalence analysis, risk stratification, and population health metrics. |
-| 📄 [terminology.py](src/terminology.py) | Helper functions for clinical terminology and healthcare data processing. |
 
 
 ## Key Skills Demonstrated
