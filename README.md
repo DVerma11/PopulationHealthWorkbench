@@ -187,6 +187,6 @@ The analyses use synthetic healthcare data and a demonstration rule-based risk s
 
 ## Author
 
-**Divya Verma, MSHI, RHIA, CCS**
+**Divya Verma, MS (Health Informatics), RHIA**
 
 Healthcare Analytics • Health Informatics • Medical Necessity • Python • SQL
