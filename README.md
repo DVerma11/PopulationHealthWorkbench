@@ -1,7 +1,7 @@
 # Population Health Workbench
 
 End-to-end healthcare analytics portfolio demonstrating claims analytics, population health analysis, patient risk stratification, and executive dashboards using Python.
-
+This project demonstrates how healthcare claims and clinical data can be transformed into actionable insights using Python. It reflects common analytical workflows used to support population health management, healthcare payment strategy, utilization review, and executive decision-making.
 ---
 
 ## Project Overview
